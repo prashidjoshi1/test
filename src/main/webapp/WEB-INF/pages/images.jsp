@@ -55,7 +55,7 @@
 			<h1 class="hero-heading">Welcome to WaftSys</h1>
 			<p class="hero-subhead">We give high performance waft web based
 				solution for your business.&nbsp;</p>
-			<img src="../images_files/520eb7479147b7fd53000001_2-big-screen.png"
+			<img src="././images_files/520eb7479147b7fd53000001_2-big-screen.png"
 				width="940" alt="520eb7479147b7fd53000001_2-big-screen.png">
 		</div>
 	</div>
