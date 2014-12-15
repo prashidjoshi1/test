@@ -16,7 +16,7 @@
         <put-attribute name="title" value="" />
         <put-attribute name="header" value="" />
        <!--  <put-attribute name="loginHeader" value="/WEB-INF/pages/loginHeader.jsp" /> -->
-        <put-attribute name="body" value="/WEB-INF/pages/images.jsp" />
+        <put-attribute name="body" value="/WEB-INF/pages/signup.jsp" />
     </definition>
     
 </tiles-definitions>
