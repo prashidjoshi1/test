@@ -1,4 +1,4 @@
-/* Generated on: Mon Dec 15 2014 14:23:32 GMT+0000 (UTC) */
+/* Generated on: Mon Dec 15 2014 14:44:58 GMT+0000 (UTC) */
 /* ==========================================================================
    normalize.css v2.0.1, along with Webflow base CSS | MIT License | git.io/normalize
    ========================================================================== */
@@ -97,8 +97,10 @@ p {
   color: black;
 }
 .subtitle {
-  margin-bottom: 24px;
-  padding-bottom: 38px;
+  margin-top: 21px;
+  margin-bottom: -11px;
+  padding-top: 21px;
+  padding-bottom: 30px;
   font-family:'Roboto Condensed', sans-serif;
   font-size: 31px;
   line-height: 35px;
@@ -266,10 +268,11 @@ p {
 }
 .logo {
   display: inline-block;
-  margin: -106px auto 19px;
-  padding: 21px;
+  margin: -143px auto 10px;
+  padding: 16px 21px 22px;
   border: 8px solid white;
   color: white;
+  line-height: 32px;
   font-weight: 700;
   letter-spacing: 8px;
   text-shadow: none;

@@ -34,8 +34,8 @@
 </head>
 <body>
 	<div class="w-container container">
-		<h1 class="logo">MAGNETIC</h1>
-		<p class="subtitle">Ads that work.</p>
+		<h1 class="logo">WaftWeb</h1>
+		<p class="subtitle">People matter results count</p>
 		<div class="w-form sign-up-form">
 			<form class="mylogin" name="wf-form-signup-form"
 				data-name="Signup Form">
