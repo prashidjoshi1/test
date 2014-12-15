@@ -1,8 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-
 
 <html data-wf-site="548eec1df166a77b3a94a8e9"
 	data-wf-page="548eec1df166a77b3a94a8eb" data-wf-status="1"
@@ -14,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Webflow">
 <link rel="stylesheet" type="text/css"
-	href="../images_files/waft_signup.webflow.css">
+	href="../images_files/nbghyujh.webflow.css">
 <script src="../images_files/webfont.js"></script>
 <link rel="stylesheet"
 	href="http://fonts.googleapis.com/css?family=Roboto+Condensed:regular,700">
@@ -25,8 +20,7 @@
 		}
 	});
 </script>
-<script type="text/javascript"
-	src="../images_files/modernizr-2.7.1.js"></script>
+<script type="text/javascript" src="../images_files/modernizr-2.7.1.js"></script>
 <link rel="shortcut icon" type="image/x-icon"
 	href="https://y7v4p6k4.ssl.hwcdn.net/placeholder/favicon.ico">
 <link rel="apple-touch-icon"
