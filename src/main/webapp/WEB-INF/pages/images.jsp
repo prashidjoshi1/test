@@ -45,7 +45,8 @@
 					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">Products</a><a
 						class="nav-link" href="http://prashid1.webflow.com/#features">ABOUT-us</a><a
 						class="nav-link sign-up" href="../images_files/images.html"
-						target="_self">Sign Up</a>
+						target="_self">Sign In</a>
+						
 				</nav>
 			</div>
 		</div>
