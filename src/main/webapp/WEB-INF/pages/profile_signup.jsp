@@ -34,8 +34,8 @@
 </head>
 <body>
 	<div class="w-container container">
-		<h1 class="logo">MAGNETIC</h1>
-		<p class="subtitle">Ads that work.</p>
+		<h1 class="logo">WaftWeb</h1>
+		<p class="subtitle">People Matter Results Count</p>
 		<div class="w-form sign-up-form">
 			<form class="myform" name="wf-form-signup-form"
 				data-name="Signup Form">
@@ -72,7 +72,7 @@
 		<div class="w-container">
 			<div class="w-row">
 				<div class="w-col w-col-6 w-col-small-6">
-					<div class="copyright">© 2014 Magnetic Inc. All right
+					<div class="copyright">© 2014 WaftSys Inc. All right
 						reserved.&nbsp;</div>
 				</div>
 				<div class="w-col w-col-6 w-col-small-6 align-right">
@@ -98,12 +98,6 @@
 		src="../images_files/webflow.js"></script>
 	<!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 
-	<a href="http://webflow.com/"
-		style="color: rgb(170, 173, 176); text-decoration: none;"><div
-			style="position: fixed; bottom: 0px; right: 0px; border-top-width: 5px; border-top-style: solid; border-top-color: rgb(43, 50, 57); border-left-width: 5px; border-left-style: solid; border-left-color: rgb(43, 50, 57); border-top-left-radius: 5px; padding: 5px 5px 5px 10px; font-family: Arial; font-size: 10px; text-transform: uppercase; opacity: 1; transition: opacity 0.5s ease-in-out; -webkit-transition: opacity 0.5s ease-in-out; background-color: rgb(43, 50, 57);">
-			Built with<img
-				src="../images_files/5445a4b1944ecdaa4df86d3e_subdomain-brand.svg"
-				style="opacity: 0.9; width: 55px; vertical-align: middle; padding-left: 4px; padding-bottom: 3px;">
-		</div></a>
+	
 </body>
 </html>
