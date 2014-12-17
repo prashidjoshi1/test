@@ -16,7 +16,7 @@
         <put-attribute name="title" value="" />
         <put-attribute name="header" value="" />
        <!--  <put-attribute name="loginHeader" value="/WEB-INF/pages/loginHeader.jsp" /> -->
-        <put-attribute name="body" value="/WEB-INF/pages/waft_signup.jsp" />
+        <put-attribute name="body" value="/WEB-INF/pages/profile_signup.jsp" />
     </definition>
     
     

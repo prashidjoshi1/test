@@ -246,7 +246,8 @@
 		<div class="w-container">
 			<div class="w-row">
 				<div class="w-col w-col-6">
-					<div class="footer-text">Gallio template.&nbsp;</div>
+					<div class="footer-text">© 2014 Magnetic Inc. All right
+						reserved.&nbsp;</div>
 				</div>
 				<div class="w-col w-col-6 right-footer-col">
 					<a class="w-inline-block social-icon"
