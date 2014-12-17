@@ -90,12 +90,6 @@
 	<script type="text/javascript" src="../images_files/webflow.js"></script>
 	<!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 
-	<a href="http://webflow.com/"
-		style="color: rgb(170, 173, 176); text-decoration: none;"><div
-			style="position: fixed; bottom: 0px; right: 0px; border-top-width: 5px; border-top-style: solid; border-top-color: rgb(43, 50, 57); border-left-width: 5px; border-left-style: solid; border-left-color: rgb(43, 50, 57); border-top-left-radius: 5px; padding: 5px 5px 5px 10px; font-family: Arial; font-size: 10px; text-transform: uppercase; background-color: rgb(43, 50, 57);">
-			Built with<img
-				src="../images_files/5445a4b1944ecdaa4df86d3e_subdomain-brand.svg"
-				style="opacity: 0.9; width: 55px; vertical-align: middle; padding-left: 4px; padding-bottom: 3px;">
-		</div></a>
+	
 </body>
 </html>
