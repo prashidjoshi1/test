@@ -16,11 +16,22 @@ public class LoginController {
 
 	
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
-	public ModelAndView showForm(HttpServletRequest request,
+	public ModelAndView showHome(HttpServletRequest request,
 			HttpServletResponse response,
 			@ModelAttribute("loginForm") LoginFormBean loginFormBean) {
 
 		ModelAndView model = new ModelAndView("login.htm");		
+		model.addObject("loginForm", loginFormBean);
+		return model;
+
+	}
+	
+	@RequestMapping(value = "/home", method = RequestMethod.GET)
+	public ModelAndView Login(HttpServletRequest request,
+			HttpServletResponse response,
+			@ModelAttribute("loginForm") LoginFormBean loginFormBean) {
+
+		ModelAndView model = new ModelAndView("home.htm");		
 		model.addObject("loginForm", loginFormBean);
 		return model;
 

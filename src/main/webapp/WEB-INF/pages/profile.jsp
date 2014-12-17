@@ -44,8 +44,8 @@
 				<nav class="w-col w-col-8 nav-column">
 					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">Products</a><a
 						class="nav-link" href="http://prashid1.webflow.com/#features">ABOUT-us</a><a
-						class="nav-link sign-up" href="../images_files/images.html"
-						target="_self">Sign In</a>
+						class="nav-link sign-up" href="login"
+						>Sign In</a>
 						
 				</nav>
 			</div>
