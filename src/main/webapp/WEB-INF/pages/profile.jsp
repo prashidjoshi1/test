@@ -42,16 +42,17 @@
 					<div class="company">WaftWeb</div>
 				</div>
 				<nav class="w-col w-col-8 nav-column">
-					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">Products</a><a
-						class="nav-link" href="http://prashid1.webflow.com/#features">ABOUT-us</a><a
-						class="nav-link sign-up" href="login"
-						>Sign In</a>
-						
+					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">ABOUT-US</a>
+					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">PRODUCTS</a>
+					<a class="nav-link" href="http://prashid1.webflow.com/#mobile">SERVICES</a>
+					<a class="nav-link" href="http://prashid1.webflow.com/#features">CONTACT-US</a><a
+						class="nav-link sign-up" href="login">SIGN IN</a>
+
 				</nav>
 			</div>
 		</div>
 	</header>
-	<div class="section hero">
+	<!-- <div class="section hero">
 		<div class="w-container">
 			<h1 class="hero-heading">Welcome to WaftSys</h1>
 			<p class="hero-subhead">We give high performance waft web based
@@ -59,12 +60,12 @@
 			<img src="../images_files/520eb7479147b7fd53000001_2-big-screen.png"
 				width="940" alt="520eb7479147b7fd53000001_2-big-screen.png">
 		</div>
-	</div>
+	</div> -->
 	<div class="section" id="mobile">
 		<div class="w-container">
 			<h2 class="section-title">Your business will be working
 				everywhere.</h2>
-			<p class="section-subtitle">People matter results count</p>
+			<p class="section-subtitle">Ideas matter solutions count</p>
 			<div class="w-row">
 				<div class="w-col w-col-6 center">
 					<img
@@ -90,10 +91,12 @@
 						width="37px"
 						alt="09cd2cce-353b-4b3b-8fdd-95687951a9a0_4-icon-safari.png">
 					<h3>going to distance</h3>
-					<p>All major browsers are supported including Internet
-						Explorer. Send it to your best friends and your grandma. It’ll
-						work on their computers and phones. Send it to your best friends
-						and your grandma. It’ll work on their computers and phones.</p>
+					<p>Software processes with the high level of reflectivity that
+						should accompany qualitative research processes in general,
+						including developing strategies for error recognition. These
+						transitions invite reflections on the nature of 'cognitive tools'
+						and expertise with them, which lead to implications for evaluating
+						research and considering trustworthiness.</p>
 					<img class="grey-icon"
 						src="../images_files/32f588ed-17db-4f75-b15a-2e4336bd4579_5-icon-apple.png"
 						width="37px"
@@ -107,9 +110,12 @@
 						width="37px"
 						alt="097c71d3-588f-4280-8d3d-a20b22c191c2_7-icon-microsoft.png">
 					<h3>Optimized&nbsp;discovery</h3>
-					<p>Send it to your best friends and your grandma. It’ll work on
-						their computers and phones. Send it to your best friends and your
-						grandma. It’ll work on their computers and phones.</p>
+					<p>Software applications by using optimization technologies
+						in an integrated, interdisciplinary and collaborative fashion.
+						This includes finding solutions to problems that are the most
+						cost-effective or achieve the highest performance under given
+						constraints by maximizing desired elements and minimizing the
+						undesired elements</p>
 				</div>
 			</div>
 		</div>
@@ -164,7 +170,8 @@
 	</div>
 	<div class="section centered">
 		<div class="w-container">
-			<h2 class="section-title">Here’s some more things you’ll love.</h2>
+			<h2 class="section-title">Here’s some more things you’ll
+				love.</h2>
 			<p class="section-subtitle">Send it to your best friends and your
 				grandma. It’ll work on their computers and phones.</p>
 			<div class="w-row">
@@ -273,6 +280,6 @@
 	<script type="text/javascript" src="../images_files/webflow.js"></script>
 	<!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 
-	
+
 </body>
 </html>

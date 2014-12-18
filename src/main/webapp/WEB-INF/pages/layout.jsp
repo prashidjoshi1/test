@@ -14,7 +14,7 @@
 <body>
 <table border="0" width="100%" cellpadding="2" cellspacing="2" align="center">
     <tr>
-        <td height="30" colspan="2"><tiles:insertAttribute name="header" /><tiles:insertAttribute name="loginHeader" />      
+        <td height="0" colspan="2"><tiles:insertAttribute name="header" /><tiles:insertAttribute name="loginHeader" />      
     </tr>
     <tr>
         <td height="450" style="vertical-align: top;"><tiles:insertAttribute name="body" /></td>
